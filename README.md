@@ -18,7 +18,11 @@
 
 
 ### - Hobbies : 
-Curto **jogos** e **anime/mangá e Desenhar ** 
+ 🎓 Aprendendo: **Estruturas de Dados** (Pilha, Fila, Lista), **Fundamentos de POO** (abstração, encapsulamento, herança, polimorfismo).  
+- 💻 Desenvolvendo: **sites educativos em HTML/CSS/JS**  
+- 🎮 Hobbies: **Games, Futebol, Manga, e desenhar
+- 🌍 Faço curso de **Inglês**, visando oportunidades internacionais.  
+- 📈 Tenho interesse em trabalhar com **Marketing Digital** e também atuar como **Designer Gráfico**, unindo criatividade e tecnologia.   
 </br>
 </br>
 </br>
