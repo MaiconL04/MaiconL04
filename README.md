@@ -1,103 +1,79 @@
-```markdown
-# Olá, mundo! 👋
+# Olá Mundo 👋
 
 <div align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" alt="coding gif" width="700" />
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.redd.it/6t9y1x1zqdf71.gif">
 </div>
 
----
+</br>
+</br>
+</br>
 
-## Sobre mim 💬
 
-- 👋 Sou **Maicon Uis**, do Brasil.
-- 🎓 Estudante de **Desenvolvimento de Sistemas** e **Lógica de Programação** (formação *AI PSII – Aprendizagem Programador de Sistemas*, com o prof. Gerson Trindade).
+# About ME 💬 :
+
+### - I'm 16 years  Estudante de **Desenvolvimento de Sistemas** e **Lógica de Programação** (formação *AI PSII – Aprendizagem Programador de Sistemas*, com o prof. Gerson Trindade).
 - 🤖 Entusiasta de **Inteligência Artificial** e **POO em Java**.
-- 🧠 Interesses atuais: **estruturas de dados** (Pilha, Fila, Lista) e **Fundamentos de POO** (abstração, encapsulamento, herança, polimorfismo).
-- 🎮 Curto **jogos** e **anime/mangá** (vibes *Jujutsu Kaisen* 👺).
 
-> Busco escrever código claro, organizado e com foco em aprendizado contínuo.
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
----
 
-## O que estou aprendendo 📚
+### - Hobbies : 
+Curto **jogos** e **anime/mangá** (vibes *Jujutsu Kaisen* 👺).
+</br>
+</br>
+</br>
 
-- ✨ **Algoritmos & Estruturas de Dados**
-- ✨ **POO com Java** (classes, objetos, atributos, métodos)
-- ✨ **Web**: HTML, CSS (animações), JavaScript
-- ✨ Fundamentos de **IA/ML**
 
----
 
-## Projetos em destaque 🚀
-
-- 🪢 **Jogo da Forca (HTML/CSS/JS)**
-  - Visual inspirado no site **a77.com.br**, com **teclado acentuado**, **cores RGB** e **imagem fixa do boneco**.
-  - Botão para **ocultar/revelar** a palavra durante a escolha.
-
-- 🌐 **Sites educativos** (HTML com páginas separadas)
-  - **Sistemas Operacionais** (autores: Kaio e Bruno)
-  - **Redes de Computadores** (autor: Bruno)
-
-- 🏫 **App de Gestão de Funcionários (Java/POO)**
-  - Uso de **classes abstratas**, **herança**, **encapsulamento** e **polimorfismo** para simular um RH escolar.
-
-> Quer ver algum código? Abra uma *issue* ou me chama nos contatos abaixo. 😉
-
----
-
-## Hobbies 🎯
-
-- 🎮 Gaming
-- 📺 Anime/Mangá (*Jujutsu Kaisen*)
-- 🏸 Badminton casual
-- 📖 Leitura técnica
-
----
-
-## Linguagens & Ferramentas 👨‍💻🛠
+# Languages & Tools 👨‍💻 🛠:
+</br>
 
 <p align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180">
-  <br/>
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
+</br>
+</br>
+</br>
 
----
 
-## Contato 📬
 
-Se quiser trocar uma ideia, tirar dúvidas ou até jogar junto, fala comigo:
+# Contact Me :
 
-- ✉️ **Email**: _adicione aqui seu melhor e-mail_
-- 💼 **LinkedIn**: _adicione o link do seu perfil_
-- 🕹️ **Discord/Steam/PSN**: _adicione seu user_
+<p>
+ </br>
 
-> Prefere pelo GitHub? Abra uma *issue* em qualquer repositório. 😉
 
----
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-## Stats do GitHub 📊
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
 
-<p align="center">
-  <!-- Substitua USERNAME pelo seu @ do GitHub -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
   </a>
-</p>
+  </p>
 
----
-
-### Como usar este README
-1. Baixe este arquivo como `README.md` no repositório especial do seu perfil: `github.com/USERNAME/USERNAME`.
-2. Substitua todos os campos de **USERNAME** e os _placeholders_ de contato.
-3. (Opcional) Ajuste gifs/ícones ou temas conforme preferir.
-
-> Dica: mantenha a seção **Projetos em destaque** atualizada com os links dos seus repositórios. 💡
-```
+*************
