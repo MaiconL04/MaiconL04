@@ -1,103 +1,61 @@
-```markdown
-# Olá, mundo! 👋
 
-<div align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" alt="coding gif" width="700" />
-</div>
+### 😎 **Sobre mim**  
+Olá, sou (coloque aqui o seu nome), (Coloque aqui sua formação e profissão).
 
----
 
-## Sobre mim 💬
 
-- 👋 Sou **Maicon Uis**, do Brasil.
-- 🎓 Estudante de **Desenvolvimento de Sistemas** e **Lógica de Programação** (formação *AI PSII – Aprendizagem Programador de Sistemas*, com o prof. Gerson Trindade).
-- 🤖 Entusiasta de **Inteligência Artificial** e **POO em Java**.
-- 🧠 Interesses atuais: **estruturas de dados** (Pilha, Fila, Lista) e **Fundamentos de POO** (abstração, encapsulamento, herança, polimorfismo).
-- 🎮 Curto **jogos** e **anime/mangá** (vibes *Jujutsu Kaisen* 👺).
-
-> Busco escrever código claro, organizado e com foco em aprendizado contínuo.
-
----
-
-## O que estou aprendendo 📚
-
-- ✨ **Algoritmos & Estruturas de Dados**
-- ✨ **POO com Java** (classes, objetos, atributos, métodos)
-- ✨ **Web**: HTML, CSS (animações), JavaScript
-- ✨ Fundamentos de **IA/ML**
-
----
-
-## Projetos em destaque 🚀
-
-- 🪢 **Jogo da Forca (HTML/CSS/JS)**
-  - Visual inspirado no site **a77.com.br**, com **teclado acentuado**, **cores RGB** e **imagem fixa do boneco**.
-  - Botão para **ocultar/revelar** a palavra durante a escolha.
-
-- 🌐 **Sites educativos** (HTML com páginas separadas)
-  - **Sistemas Operacionais** (autores: Kaio e Bruno)
-  - **Redes de Computadores** (autor: Bruno)
-
-- 🏫 **App de Gestão de Funcionários (Java/POO)**
-  - Uso de **classes abstratas**, **herança**, **encapsulamento** e **polimorfismo** para simular um RH escolar.
-
-> Quer ver algum código? Abra uma *issue* ou me chama nos contatos abaixo. 😉
-
----
-
-## Hobbies 🎯
-
-- 🎮 Gaming
-- 📺 Anime/Mangá (*Jujutsu Kaisen*)
-- 🏸 Badminton casual
-- 📖 Leitura técnica
-
----
-
-## Linguagens & Ferramentas 👨‍💻🛠
-
+<!--
 <p align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180">
-  <br/>
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150">
-</p>
-
----
-
-## Contato 📬
-
-Se quiser trocar uma ideia, tirar dúvidas ou até jogar junto, fala comigo:
-
-- ✉️ **Email**: _adicione aqui seu melhor e-mail_
-- 💼 **LinkedIn**: _adicione o link do seu perfil_
-- 🕹️ **Discord/Steam/PSN**: _adicione seu user_
-
-> Prefere pelo GitHub? Abra uma *issue* em qualquer repositório. 😉
-
----
-
-## Stats do GitHub 📊
-
-<p align="center">
-  <!-- Substitua USERNAME pelo seu @ do GitHub -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
+  <a href="https://youtube.com/@MenteMaker?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/Inscreva--se-no%20YouTube-red?logo=youtube&style=for-the-badge" width="220">
   </a>
 </p>
 
----
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
+-->
 
-### Como usar este README
-1. Baixe este arquivo como `README.md` no repositório especial do seu perfil: `github.com/USERNAME/USERNAME`.
-2. Substitua todos os campos de **USERNAME** e os _placeholders_ de contato.
-3. (Opcional) Ajuste gifs/ícones ou temas conforme preferir.
+<!--
+![YouTube Views](https://img.shields.io/youtube/channel/views/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
+-->
 
-> Dica: mantenha a seção **Projetos em destaque** atualizada com os links dos seus repositórios. 💡
-```
+<!--
+### 🌐 **Minhas Redes Sociais**  
+Coloque aqui as informações de redes sociais:
+-->
+
+### 🧑‍💻 **Minhas Habilidades e Tecnologias**  
+(Descreva aqui suas habilidades.).
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+
+ <!-- Coloque aqui as imagens e gifs -->
+
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" style="margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" style="margin: 5px;">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60" style="margin: 5px;">
+  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="60" style="margin: 5px;">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
+
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+
+<br><br>
+
+
+
